@@ -4,7 +4,7 @@ This app is the sample app to display mask information in Taiwan
 
 Data from : https://g0v.hackmd.io/@kiang/mask-info
 
-# What you can practice from this app?
+## What you can practice from this app
 1. appBar, listView, custom listRow widget 
 2. future, async, await in Dart
 3. how to parser json data in Dart
