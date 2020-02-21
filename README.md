@@ -1,6 +1,6 @@
 # Mask Sample App
 
-This app is the sample app to display mask information in Taipei
+This app is the sample app to display mask information in Taiwan
 
 Data from : https://g0v.hackmd.io/@kiang/mask-info
 
