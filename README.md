@@ -1,6 +1,8 @@
-# flutter_app
+# Mask Sample App
 
-A new Flutter application.
+This app is the sample app to display mask information in Taipei
+
+Data from : https://g0v.hackmd.io/@kiang/mask-info
 
 ## Getting Started
 
